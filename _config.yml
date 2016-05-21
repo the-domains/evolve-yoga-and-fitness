@@ -1,7 +1,7 @@
 name: 'Evolve Yoga & Fitness'
 favicon: null
-layout_spectrum: 0.0009091298561543226
-typography_spectrum: 0.3136329189874232
+layout_spectrum: 0.99904
+typography_spectrum: 0.44316
 title: Evolve
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#000000'
+    - '#ffffff'
+    - '#fcb040'
+    - '#fff205'
+    - '#f68420'
   brandStrength: 0.7338391931261867
   lightness: 0.9633489942643791
   saturation: 0.37333265971392393
