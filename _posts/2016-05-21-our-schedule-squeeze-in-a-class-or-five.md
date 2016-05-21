@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Our schedule. Squeeze in a class... or five. ;)
-datePublished: '2016-05-21T14:56:31.989Z'
-dateModified: '2016-05-21T14:26:58.851Z'
+datePublished: '2016-05-21T15:03:32.450Z'
+dateModified: '2016-05-21T15:03:32.055Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-our-schedule-squeeze-in-a-class-or-five.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-our-schedule-squeeze-in-a-class-or-five.md
 url: our-schedule-squeeze-in-a-class-or-five/index.html
 _type: Article
 
