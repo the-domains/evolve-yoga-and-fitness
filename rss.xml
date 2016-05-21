@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Evolve Yoga & Fitness]]></title>
+        <description><![CDATA[Evolve Yoga & Fitness]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 21 May 2016 05:47:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97de414c-a374-4403-8ac7-db85992b06f1.jpg">]]></description>
+            <link>undefinedposture-of-the-week-utthita-hasta-padangustasana/index.html</link>
+            <guid isPermaLink="false">af293198-3510-4454-8fb8-ffb794466d12</guid>
+            <pubDate>Sat, 21 May 2016 05:47:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
