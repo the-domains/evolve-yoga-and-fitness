@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The evolution begins with you.
-datePublished: '2016-05-21T14:59:24.962Z'
-dateModified: '2016-05-21T14:58:45.896Z'
+datePublished: '2016-05-21T15:06:14.364Z'
+dateModified: '2016-05-21T15:06:02.496Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-the-evolution-begins-with-you.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: the-evolution-begins-with-you/index.html
 _type: Article
 
