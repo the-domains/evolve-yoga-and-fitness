@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Evolve Yoga & Fitness]]></title>
         <description><![CDATA[Evolve Yoga & Fitness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/evolve-yoga-and-fitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 05:47:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 05:47:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/evolve-yoga-and-fitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4cdf0a9-88fc-4ce7-8ab2-097fa7514d3b.jpg">]]></description>
+            <link>https://thegrid.ai/evolve-yoga-and-fitness/the-evolution-continues-with-you/index.html</link>
+            <guid isPermaLink="false">79e4e0ab-81ab-408e-b350-0e0b1b29b776</guid>
+            <pubDate>Sat, 21 May 2016 05:47:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97de414c-a374-4403-8ac7-db85992b06f1.jpg">]]></description>
-            <link>undefinedposture-of-the-week-utthita-hasta-padangustasana/index.html</link>
+            <link>https://thegrid.ai/evolve-yoga-and-fitness/posture-of-the-week-utthita-hasta-padangustasana/index.html</link>
             <guid isPermaLink="false">af293198-3510-4454-8fb8-ffb794466d12</guid>
             <pubDate>Sat, 21 May 2016 05:47:22 GMT</pubDate>
         </item>
