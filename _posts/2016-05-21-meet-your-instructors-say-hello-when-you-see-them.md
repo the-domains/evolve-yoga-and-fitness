@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Meet your instructors. Say hello when you see them.
-datePublished: '2016-05-21T14:56:12.659Z'
-dateModified: '2016-05-21T14:23:02.718Z'
+datePublished: '2016-05-21T15:03:54.051Z'
+dateModified: '2016-05-21T15:03:52.234Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-21-meet-your-instructors-say-hello-when-you-see-them.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-21-meet-your-instructors-say-hello-when-you-see-them.md
 url: meet-your-instructors-say-hello-when-you-see-them/index.html
 _type: Article
 
