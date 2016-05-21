@@ -22,7 +22,7 @@ color:
     - '#fcb040'
     - '#fff205'
     - '#f68420'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.9633489942643791
   saturation: 0.5
   rhythmicContrast: 0
