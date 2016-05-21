@@ -1,6 +1,6 @@
 name: Evolve
 favicon: null
-layout_spectrum: 0.23411
+layout_spectrum: 0.24567
 typography_spectrum: 0.44316
 title: Evolve
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fcb040'
     - '#fff205'
     - '#f68420'
-  brandStrength: 0
+  brandStrength: 0.25
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
