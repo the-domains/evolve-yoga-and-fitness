@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The evolution begins with you.
-datePublished: '2016-05-21T14:58:39.277Z'
-dateModified: '2016-05-21T14:58:10.025Z'
+datePublished: '2016-05-21T14:59:24.962Z'
+dateModified: '2016-05-21T14:58:45.896Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-21-the-evolution-begins-with-you.md
